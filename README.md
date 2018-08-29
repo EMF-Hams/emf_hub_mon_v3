@@ -27,6 +27,14 @@ It's possible to tweak the behaviour of the badge by editing the emf_hub_mon.jso
 * **first_boot:** The app will show some information on first boot, then toggle this value so it doesn't reappear (true/false)
 * **demo:** Force first_boot = true, always
 
+#### License
+
+This project is licensed under the MIT license. See License.txt for details
+
 #### Contributing
 
-This app has been produced as a "reference" - Pull Requests or changes are welcome and encouraged
+This app has been produced as a "reference" - Pull Requests or changes are welcome and encouraged\
+
+#### Acknowledgments
+
+Thanks to Sam Machin & Nexmo for the MQTT inspiration, the Electromagnetic Field organisers and contributors, the Badge team, and everyone else that makes EMF what it is. 
